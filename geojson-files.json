@@ -1,0 +1,18 @@
+{
+  "files": [
+    "Weekday_4.geojson", "Weekday_5.geojson", "Weekday_6.geojson", "Weekday_7.geojson",
+    "Weekday_8.geojson", "Weekday_9_1459.geojson", "Weekday_15_1759.geojson", "Weekday_18.geojson",
+    "Weekday_19.geojson", "Weekday_20.geojson", "Weekday_21.geojson", "Weekday_22.geojson",
+    "Weekday_23.geojson", "Weekday_24.geojson", "Weekday_25.geojson", "Weekday_26.geojson",
+
+    "SAT_0400_0459.geojson", "SAT_0500_0559.geojson", "SAT_0600_0659.geojson", "SAT_0700_0759.geojson",
+    "SAT_0800_0859.geojson", "SAT_0900_1759.geojson", "SAT_1800_1859.geojson", "SAT_1900_1959.geojson",
+    "SAT_2000_2059.geojson", "SAT_2100_2159.geojson", "SAT_2200_2259.geojson", "SAT_2300_2359.geojson",
+    "SAT_2400_2459.geojson", "SAT_2500_2559.geojson", "SAT_2600_2659.geojson",
+
+    "SUN_0400_0459.geojson", "SUN_0500_0559.geojson", "SUN_0600_0659.geojson", "SUN_0700_0759.geojson",
+    "SUN_0800_0859.geojson", "SUN_0900_0959.geojson", "SUN_1000_1859.geojson", "SUN_1900_1959.geojson",
+    "SUN_2000_2059.geojson", "SUN_2100_2159.geojson", "SUN_2200_2259.geojson", "SUN_2300_2359.geojson",
+    "SUN_2400_2459.geojson", "SUN_2500_2559.geojson", "SUN_2600_2659.geojson"
+  ]
+}
